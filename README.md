@@ -1,1 +1,1 @@
-![Overview](https://github-readme-stats.vercel.app/api?username=DFHX5694&count_private=true&include_all_commits=false&card_width=100&title_color=FFFFFF&line_height=27&text_color=FFFFFF&bg_color=000000)
+![Overview](https://github-readme-stats.vercel.app/api?username=DFHX5694&count_private=true&include_all_commits=false&card_width=100&title_color=FFFFFF&line_height=27&text_color=FFFFFF&bg_color=131723)
